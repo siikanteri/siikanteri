@@ -1,0 +1,2 @@
+  <h1>Jurnalweb.com</h1>
+  <p>Contoh pembuatan sliding menu / drawer menu dengan CSS, baca tutorialnya <a href="http://www.jurnalweb.com/tutorial-cara-membuat-sliding-menu-dengan-css-dan-html">disini</a></p>

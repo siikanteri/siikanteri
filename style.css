@@ -88,3 +88,4 @@ header {
 .content{
   padding: 100px 0 0 250px;
 }
+.post-body embed, .post-body object, .post-body iframe {width:100% !important;}
